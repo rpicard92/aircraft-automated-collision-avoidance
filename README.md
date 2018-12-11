@@ -9,4 +9,3 @@
 
 - Click the run button. 
 
-Note: The top level parameter constants are set correctly; however, the constants may be adjusted as desired, see report for additional details. 
